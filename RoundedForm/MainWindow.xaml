@@ -11,7 +11,8 @@
         AllowsTransparency="True"
         WindowStyle="None"
         Background="Transparent"
-        MouseLeftButtonDown="Window_MouseLeftButtonDown" Icon="icon.png">
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        Icon="icon.png">
     <Window.Resources>
         <ImageBrush x:Key="imgBrush" ImageSource="icon.png" />
     </Window.Resources>
